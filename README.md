@@ -1,3 +1,39 @@
-# Zomato_Clon
+# Zomato_Clone
 
 ## Zomato Landing Page Clone
+
+<!-- downloading the repo or project from the git -->
+
+git clone "Link"
+
+<!-- offline editors (its only for 1st tym)-->
+
+git init
+git remote add origin "link"
+code .
+
+<!-- offline n online editors -->
+
+git status
+git add .
+git status
+git commit -m "msg"
+git push
+
+<!-- to create a branch -->
+
+git checkout -b initialSetUp
+
+<!-- Switching Branch -->
+
+git checkout main
+
+## This is a new SetUpBranch
+
+# Naming Conventions:
+
+## BEM (Block Element Modifier) Approach
+
+https://getbem.com/
+
+https://fontawesome.com/
