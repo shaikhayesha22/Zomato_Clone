@@ -1,3 +1,3 @@
-# Zomato_Clone
+# Zomato_Clon
 
 ## Zomato Landing Page Clone
